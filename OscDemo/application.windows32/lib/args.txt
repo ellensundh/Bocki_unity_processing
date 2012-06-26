@@ -1,3 +1,0 @@
-
-OscDemo
-OscDemo.jar,core.jar,oscP5.jar,RXTXcomm.jar,serial.jar
